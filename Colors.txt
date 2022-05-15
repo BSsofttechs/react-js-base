@@ -1,0 +1,10 @@
+Primary -#546e7a
+PrimaryLight -#819ca9
+PrimaryDark -#29434e
+
+Secondary - #26c6da
+SecondaryLight - #6ff9ff
+SecondaryDark - #0095a8
+
+Primary Text - #e0e0e0
+Secondary Text - #d7ccc8
